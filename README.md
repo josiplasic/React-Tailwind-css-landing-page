@@ -1,1 +1,2 @@
-# React-Tailwind-css-landing-page
+# Responsive react landing page
+ react, dynamic, animations, responsive
